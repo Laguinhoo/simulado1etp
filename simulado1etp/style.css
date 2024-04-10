@@ -1,0 +1,37 @@
+table{width: 90%;
+    height: 900px;}
+
+
+#cinza01{ background-color: #d9d9d9; height: 25%;}
+
+#cinza02{ background-color: #d9d9d9;
+    height: 15%;}
+
+#coisinho{background-color: #ffff; width: 10%;}
+
+#verde{ background-color: #e3ffb6;
+    width: 15%;
+    text-align: center;
+    border: 10%;
+     padding: 1% ;}
+
+#vermelho{ background-color: #ff9a9a; height: 10%;}
+
+#amarelo{ background-color: #fffb99;width: 14%; height: 260px;}
+
+#azul1{ background-color: #6bc1ff;
+    width: 50%;
+    vertical-align: top;
+    padding: 2%;
+    font-size: large;}
+
+#azul2{ background-color: #6bc1ff;}
+
+#laranja{ background-color: #ff9900;
+    width: 3%;}
+
+#logo{ text-align: center;}
+
+.logo{height: 160px;}
+
+.logo2 {height: 250px;}
